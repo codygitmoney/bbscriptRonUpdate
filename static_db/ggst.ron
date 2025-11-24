@@ -5306,9 +5306,9 @@
         ),
         775: (
             size: 12,
+            name: "riscDamageScalingPercent",
             args: [
-                Number,
-                Number,
+                AccessedValue,
             ],
         ),
         776: (
@@ -8674,7 +8674,7 @@
         ),
         1329: (
             size: 12,
-			name: "multiplyRISC"
+			name: "riscGainPercent"
             args: [
                 AccessedValue,
             ],
